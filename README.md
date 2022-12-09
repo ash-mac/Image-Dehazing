@@ -1,1 +1,1 @@
-# CS517-Digital-Image-Processing
+# Single image dehazing via an improved atmospheric scattering model
